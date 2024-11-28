@@ -27,7 +27,7 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 ## Good to have
 
 1. Unit tests.
-2. Accessibility.
+1. Accessibility.
 
 
 ## Steps for submission
@@ -41,8 +41,9 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 
 ## Frameworks Allowed
 1. React/Vanilla JS for JavaScript
-2. No framework for CSS. Only Raw CSS is allowed.
+1. No framework for CSS. Only Raw CSS is allowed.
 
 ## Note
 
-Result on platforms like codesandbox, replit are not accepted.
+1. Result on platforms like codesandbox, replit are not accepted. 
+1. Private unaccessible links will lead to rejection.
