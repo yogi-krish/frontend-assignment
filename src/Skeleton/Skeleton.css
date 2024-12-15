@@ -1,0 +1,23 @@
+
+.skeleton {
+    border-radius: 0.375rem;
+    /* background-color: rgb(100 116 139); */
+    background-color: #918481;
+    height: 1rem;
+    width: 80px;
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.cell {
+    padding: 0.5rem;
+}
+
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .5;
+  }
+}
